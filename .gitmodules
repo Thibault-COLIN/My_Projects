@@ -1,3 +1,9 @@
 [submodule "Recherche-operationelle"]
 	path = Recherche-operationelle
 	url = https://github.com/Thibault-COLIN/Recherche-operationelle
+[submodule "Projet-bases-de-donnees-evoluees"]
+	path = Projet-bases-de-donnees-evoluees
+	url = https://github.com/LouisNmd/Projet-bases-de-donnees-evoluees
+[submodule "tinyGram"]
+	path = tinyGram
+	url = https://github.com/Raph-Tnd/tinyGram
